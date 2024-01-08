@@ -2,7 +2,7 @@
 <p align="center">A Passionate Junior Full Stack Developer From an edge of Sylhet, Bangladesh</p>
 <div>
   <h3>Activity</h3>
-  <h5>Currently Working on 👉 <a href="https://rajdhola.vercel.app">Rajdhola Ecommerce</a> <small>(an ecommerce website based on NextJs)</small></h5>
+  <h5>Currently Working on 👉 <a href="https://rajdhola.vercel.app">Rajdhola Ecommerce</a> <small>(an ecommerce website based on NextJS)</small></h5>
 </div>
 
 <div>
