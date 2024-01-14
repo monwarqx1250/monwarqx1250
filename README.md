@@ -2,7 +2,7 @@
 
 #### <p align="center">A passioniate junior full stack developer from an edge of Bangladesh</p>
 
-*****<p align="center" >S K I L L S</p>*****
+*****<p align="center" >{ S K I L L S }</p>*****
 ### [ languages ]
 ```json
 {
@@ -57,23 +57,40 @@
 {
   "JavaScript": ["ReactJs", "jQuery"],
   "React": ["NextJs", "react-router-dom"],
-  "PHP": ["laravel", "CodeIgniter", "klien", "FastRoute"],
+  "PHP": ["laravel", "CodeIgniter", "klein", "FastRoute"],
   "Python": "Flask",
   "C#": "ASP.NET"
 }
 ```
 <details>
-  <summary>[Visualize]</summary>
+    <summary>[visualize]</summary>
   <br>
-  <div>
-  <details>
-  <summary>Proficient</summary>
-    <br>
-    <strong>JavaScript</strong>
-    ,
-    <strong>SQL</strong>
-</details>
+    <div>
+      <details>
+        <summary>JavaScript</summary>
+        <strong>ReactJs</strong> ---
+        <strong>jQuery</strong>
+      </details>
+      <details>
+        <summary>React</summary>
+        <strong>NextJs</strong> ---
+        <strong>react-router-dom</strong>
+      </details>
+      <details>
+        <summary>PHP</summary>
+        <strong>laravel</strong> ---
+        <strong>CodeIgniter</strong> ---
+        <strong>klein</strong> ---
+        <strong>FastRoute</strong>
+      </details>
+      <details>
+        <summary>Python</summary>
+        <strong>Flask</strong>
+      </details>
+      <details>
+        <summary>C#</summary>
+        <strong>ASP.NET</strong>
+      </details>
+    </div>
 
-</div>
 </details>
-
