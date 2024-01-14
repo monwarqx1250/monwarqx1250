@@ -2,16 +2,19 @@
 
 #### <p align="center">A passioniate junior full stack developer from an edge of Bangladesh</p>
 
-*****<p align="center" >{ S K I L L S }</p>*****
+*****<p align="center" >S K I L L S</p>*****
+
 ### [ languages ]
+
 ```json
 {
-  "Proficient": ["JavaScript","SQL"],
+  "Proficient": ["JavaScript", "SQL"],
   "Competent": ["TypeScript", "PHP", "Python"],
   "Familiar With": ["C#", "Java"],
-  "learning": ["C","TypeScript(Advance)"]
+  "learning": ["C", "TypeScript(Advance)"]
 }
 ```
+
 <details>
   <summary>[Visualize]</summary>
   <br>
@@ -53,6 +56,13 @@
 </details>
 
 ### [Frameworks / Libraries]
+
+<!-- 
+=====================================
+Framworks and Library (json)
+===================================== 
+-->
+
 ```json
 {
   "JavaScript": ["ReactJs", "jQuery"],
@@ -62,9 +72,14 @@
   "C#": "ASP.NET"
 }
 ```
+<!-- 
+=====================================
+Framworks and Library (visual)
+===================================== 
+-->
 <details>
     <summary>[visualize]</summary>
-  <br>
+    <br>
     <div>
       <details>
         <summary>JavaScript</summary>
@@ -81,7 +96,7 @@
         <strong>laravel</strong> ---
         <strong>CodeIgniter</strong> ---
         <strong>klein</strong> ---
-        <strong>FastRoute</strong>
+        <strong>FastRoute</strong> ---
       </details>
       <details>
         <summary>Python</summary>
@@ -92,5 +107,17 @@
         <strong>ASP.NET</strong>
       </details>
     </div>
+  </details>
 
-</details>
+### [Databases]
+<!-- 
+=====================================
+Databases (json)
+===================================== 
+-->
+
+```json
+{
+  "Databases":["MongoDB","Mysql","MariaDB","PostgreSql","sqlite"]
+}
+```
